@@ -1,0 +1,107 @@
+body {
+    font-size: 24px;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.2em;
+}
+
+hr{
+
+    height: 2px;
+    background-color: gray;
+}
+nav {
+    background-color: #adb4ad;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+    padding: 6px 70px;
+}
+
+nav ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav ul li a:visited{
+    color: #000000;
+}
+
+.icono {
+
+    position: relative;
+    display:block;
+    margin:auto;
+    width: 300px; 
+    height: 300px;
+
+}
+
+.primera{
+
+    position: relative;
+}
+
+h2{
+
+    text-align: center;
+    
+}
+
+.datos{
+    line-height: 40pt;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+
+.evolucion{
+
+    display: block;
+    margin: auto;
+    width: auto;
+    height: 500px;
+
+}
+
+footer{
+
+    text-align: center;
+    background-color: rgb(144, 149, 151);
+    font: oblique bold 120% cursive;
+    border: 2px solid;
+}
+
+td{
+
+    padding: 2px  40px;
+}
+.motor{
+
+    position: relative;
+    height: 500px;
+    width: 350px;
+    float: right;
+    right: 10px;
+}
+
+h3{
+    text-align: center; 
+}
+
+ button{
+
+    width:20%;
+	padding:8px 16px;
+	margin-top:32px;
+	border-radius:8px;
+	color:#fff;
+	background-color:rgb(38, 126, 177);
+    
+    }
